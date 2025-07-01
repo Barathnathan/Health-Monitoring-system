@@ -34,7 +34,7 @@ char pass[] = "n6dss8p7";
 
 const int X_PIN = 36;
 const int Y_PIN = 39;
-const int Z_PIN = 35;
+const int Z_PIN = 37;
 
 // Objects
 OneWire oneWire(ONE_WIRE_BUS);
